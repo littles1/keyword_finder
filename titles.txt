@@ -1,0 +1,116 @@
+The Clouds distributed operating system
+The clouds distributed operating system: Functional description, implementation details and related work
+Recognizing design decisions in programs
+Improving software practice through education: Challenges and future trends
+Distributed Eiffel: a language for programming multi-granular distributed objects on the Clouds operating system
+SE2004: Recommendations for undergraduate software engineering curricula
+Fault-tolerant atomic computations in an object-based distributed system
+The clouds distributed operating systems: Functional description, implementation details and related work
+Introducing computer science fundamentals before programming
+Asynchronous event handling in distributed object-based systems
+Software engineering 2004: ACM/IEEE-CS guidelines for undergraduate programs in software engineering
+Distributed locking: A mechanism for constructing highly available objects
+Event ordering in a shared memory distributed system
+Reflections on software engineering 2004, the ACM/IEEE-CS guidelines for undergraduate programs in software engineering
+Building, modifying and using component generators
+Object replacement using dynamic proxy updates
+The cyclefree methodology: a simple approach to building reliable, robust, real-time systems
+Introduction to computing: a course in computer science fundamentals
+The structure of the clouds distributed operating system
+SE2004: Recommendations for undergraduate software engineering curricula
+The CycleFree methodology
+Object orientation in the clouds operating system
+Specification refinement using transformation-based tools
+On Software Engineering Education-Reflections on Software Engineering 2004, the ACM/IEEE-CS Guidelines for Undergraduate Programs in Software Engineering
+Debugging objects and threads in a shared object system
+Improving software practice through education: Challenges and future trends
+Crafting a compiler
+Event-Driven Monitoring of Distributed Programs
+A study of the applicability of complexity measures
+Computing curricula 2005: The overview report
+Curriculum guidelines for undergraduate degree programs in information technology
+Fault tolerant computing in object based distributed operating systems
+Systems programming with objects and actions
+The design of a programming language based on connectivity networks
+Event-based debugging of object/action programs
+Software Engineering 2004: Curriculum Guidelines for Undergraduate Degree Programs in Software Engineering
+The Clouds Project: Designing and Implementing a Fault Tolerant, Distributed Operating System
+Rationale for the design of aeolus: A systems programming language for an action/object system
+The implementation of run-time diagnostics in Pascal
+The computing ontology: application in education
+Application specific coherence control for high performance distributed shared memory
+NSF/IEEE-TCPP curriculum initiative on parallel and distributed computing: core topics for undergraduates
+Using a computing ontology as a foundation for curriculum development
+A synthesis of computing concepts
+Distributed Compilation: A Case Study
+The architecture of ra: a kernel for Clouds
+Computing curricula 2004: the overview project
+Introducing testing practices into objects and design course
+On implementing separate compilation in block-structured languages
+Efficient implementation and optimization of run-time checking in PASCAL
+Instructor's Guide to Accompany Crafting a Compiler
+ACM/IEEE-CS computer science curriculum 2013: reviewing the Ironman report
+Design rationale for TELOS, a PASCAL-based AI language
+Distributed garbage collection
+Extensions to PASCAL for separate compilation
+Interactive monitoring of distributed systems
+A naming specification language for syntax-directed editors
+Integrating depth-first and breadth-first models of computing curricula
+Keeping family of computing related disciplines together
+Ada and Software Development Support: A New Concept in Language Design
+A Simple and Practical Implementation of Predicates in Context-Free Parsers
+Crafting a Compiler
+IT 2008: the history of a new computing discipline
+A case study of run-time errors in Pascal programs
+Debugging distributed programs
+Adapting computing curricula to a multicore world
+Crafting a Compiler with C
+Draft accreditation criteria for software engineering
+Report on the ACM/IEEE-CS undergraduate curricula recommendations
+Concurrency and parallelism in the computing ontology
+IEEE-CS/ACM computing curricula: computer engineering & software engineering volumes
+Using community-based projects in software engineering education
+Coherence, Synchronization and State-sharing in Distributed Shared-memory Applications
+Model curricula for IT schools: report of a curriculum committee
+Computing curricula-software engineering volume
+SEEK development and review: Status Report from the ACM/IEEE-CS Task Forces on Software Engineering Curriculum and Body of Knowledge
+Special session: The CS2013 Computer Science curriculum guidelines project
+Research issues in fully distributed systems
+Fault Tolerant Software Technology for Distributed Computer Systems
+Status Report from the ACM/IEEE-CS Task Forces on Software Engineering Curriculum and Body of Knowledge 
+IEEE 27th Conference on Software Engineering Education and Training (CSEE&T)
+Specifications and rationale for TELOS, a PASCAL based artificial intelligence programming language[Ph.D. Thesis]
+Generating Undergraduate Software Engineering Courses/Programs Using the Computing Curricula Software Engineering Volume
+The design and implementation of a code generation tool
+IEEE-CS/ACM computing curricula-software engineering volume
+Software engineering in CS 2013
+Fault tolerant software technology for distributed computing system
+Computing curricula 2004: the overview project
+Software support for fully Distributed/Loosely coupled processing systems, volume 1 [Final Technical Report, 20 Aug. 1981- 31 Dec. 1982]
+Rationale for the Design of Aeolus: A Systems Programming Language for an Action/Object System
+Professional Engineering and Software Engineering
+Run-time checking of data access in pascal-like languages
+Special session: The CS2013 computer science curriculum guidelines project
+Specifying Naming and Scoping Features for Syntax-directed Editors
+Editing Abstract Syntax Graphs: Viewing Name References as Structure
+A Synthesis of the Computing Disciplines
+Panel: Distributed Language Constructs
+
+What Should All CS Graduates Know?
+Fault tolerance distributed computing
+IEEE-CS/ACM COMPUTING CURRICULA-SOFTWARE ENGINEERING
+JavaMonte: a new programming language for Monte Carlo simulation
+Exploring the Computer Science 2013 Curriculum Guidelines
+7th Symposium on Reliable Distributed Systems
+A support architecture for reliable distributed computing systems
+Research on reliable distributed computing
+The history of a new computing discipline
+The Impact Of Ada On Software Development
+Software support for fully distributed/loosely coupled processing systems. Volume 2: Appendix-selected papers [Final Technical Report, 20 Aug. 1981- 31 Dec. 1982]
+An Analysis of Run-time Errors
+ACM/IEEE-CS computer science curricula 2013: implementing the final report
+CE 2004: Computer engineering: curriculum guidelines for undergraduate degree programmes in computer engineering
+Panel-assessing the impact of the SE2004 curriculum guidelines
+Systems Programing with Objects end Actions
+FAULT TOLERANT DISTRIBUTED COMPUTING
+Crafting a Compiler Benjamin/Cummings Series in Computer Science
